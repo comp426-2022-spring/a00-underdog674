@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a00-underdog674/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a00-underdog674#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a00-underdog674#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
